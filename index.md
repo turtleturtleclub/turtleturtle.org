@@ -10,6 +10,7 @@ title: TurtleTurtle.org
 [encrypted.turtlecoin.lol](https://keybase.io/turtlecoin) → Encrypted Chat & Public Keys  
 
 ### Public Daemons
+[turtleland.fun](http://turtleland.fun) → mrlahaye's public daemon service  
 [turtlenode.online](https://turtlenode.online) → morpheus' public daemon service  
 [trtl-explorer.xhub.cloud](https://trtl-explorer.xhub.cloud) → polar-it's Block Explorer and public daemon service  
 [turtlenode.io](http://turtlenode.io) → Iburnmycd's public daemon service  
