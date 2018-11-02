@@ -24,7 +24,6 @@ title: TurtleTurtle.org
 [trtl-explorer.xhub.cloud](https://trtl-explorer.xhub.cloud) → polar-it's Block Explorer and public daemon service  
 [turtle-block.com](https://turtle-block.com) → Cision's Block Explorer  
 [Turtle.Land](https://turtle.land/) → Close0ne Explorer - Useful Links - Wallets etc...  
-
 ### Social
 [chat.turtlecoin.lol](http://chat.turtlecoin.lol) → Discord  
 [facebook.turtlecoin.lol](https://www.facebook.com/groups/204815433401566/) → Facebook Group  
@@ -73,7 +72,8 @@ title: TurtleTurtle.org
 [turtlecoinpool.ddns.net](http://turtlecoinpool.ddns.net/) → DDNS TurtleCoinPool  
 [turtleminers.club](http://turtleminers.club) → Turtle Miners Club TRTL Pool (USA)  
 [us.turtlepool.space](http://us.turtlepool.space/) → USA TurtlePool  
-[trtl.cryptopool.space](https://trtl.cryptopool.space/) → Turtle CryptopPool.Space (World Wide)  
+[trtl.cryptopool.space](https://trtl.cryptopool.space/) → Turtle CryptoPool.Space (World Wide)  
+[https://turtle.hashvault.pro/en/](https://turtle.hashvault.pro/en/) → Turtle Hashvault.pro (Seems EU)
 
 ### Projects  
 [arch linux user package](https://aur.archlinux.org/packages/turtlecoin-git/) → wreiner's package of core for arch linux  
