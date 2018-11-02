@@ -73,7 +73,7 @@ title: TurtleTurtle.org
 [turtleminers.club](http://turtleminers.club) → Turtle Miners Club TRTL Pool (USA)  
 [us.turtlepool.space](http://us.turtlepool.space/) → USA TurtlePool  
 [trtl.cryptopool.space](https://trtl.cryptopool.space/) → Turtle CryptoPool.Space (World Wide)  
-[https://turtle.hashvault.pro/en/](https://turtle.hashvault.pro/en/) → Turtle Hashvault.pro (Seems EU)
+[turtle.hashvault.pro](https://turtle.hashvault.pro/en/) → Turtle Hashvault.pro (Seems EU)
 
 ### Projects  
 [arch linux user package](https://aur.archlinux.org/packages/turtlecoin-git/) → wreiner's package of core for arch linux  
