@@ -39,6 +39,7 @@ title: TurtleTurtle.org
 [funkypenguin.co.nz](https://geek-cookbook.funkypenguin.co.nz/recipies/turtle-pool/) → Docker Swarm Pool Setup  
 [wiki.turtlecoin.lol](https://github.com/turtlecoin/turtlecoin/wikis) → TurtleCoin Wiki  
 
+
 ### Decentralized Exchanges
 [bisq.network](https://bisq.network) → Bisq Network  
 [openbazaar.org](https://openbazaar.org) → OpenBazaar Market   
@@ -73,7 +74,8 @@ title: TurtleTurtle.org
 [turtleminers.club](http://turtleminers.club) → Turtle Miners Club TRTL Pool (USA)  
 [us.turtlepool.space](http://us.turtlepool.space/) → USA TurtlePool  
 [trtl.cryptopool.space](https://trtl.cryptopool.space/) → Turtle CryptoPool.Space (World Wide)  
-[turtle.hashvault.pro](https://turtle.hashvault.pro/en/) → Turtle Hashvault.pro (Seems EU)
+[turtle.hashvault.pro](https://turtle.hashvault.pro/en/) → Turtle Hashvault.pro (Seems EU)  
+[pool.gntl.co.uk](https://trtl.pool.gntl.co.uk/#/dashboard) → GNTL Turtlecoin Pool (UK)  
 
 ### Projects  
 [arch linux user package](https://aur.archlinux.org/packages/turtlecoin-git/) → wreiner's package of core for arch linux  
