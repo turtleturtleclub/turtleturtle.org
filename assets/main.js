@@ -15,7 +15,7 @@ $(document).ready(function() {
     });
     loadTable(d);
     setInterval(function() {
-        // updateTable(d)
+        updateTable(d)
     }, 31000)
 });
 
