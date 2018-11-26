@@ -16,47 +16,84 @@ $(document).ready(function() {
     loadTable(d);
     setInterval(function() {
         updateTable(d)
-    }, 31000)
-});
+    }, 120000)
+
+})
+
+
+
+
+
+
+function loadTable(d) {
+
+    var defer = $.Deferred().resolve();
+
+    $.each(nodes, function(key, node) {
+        // Add next deferred to chain, it will be invoked when previous is completed
+        defer = defer.then(function() {
+            return AjaxLoadTable(key, node, d)
+        });
+    });
+
+    defer.then(function() {
+        console.log('All requests completed')
+    });
+
+
+    function AjaxLoadTable(key, node, d) {
+        return $.ajax({
+            url: `https://api.turtlenode.io/${node.url}/${node.port}/getinfo`,
+            dataType: "json",
+            contentType: 'application/x-www-form-urlencoded',
+            type: "GET",
+            cache: "false",
+            success: function(c) {
+                if (c.synced) {
+                    c.error ? d.row.add([node.name, node.port, node.name, 0, "No", 0, "0 H/s", 0, 0, 0, 0, "Unknown"]).draw(!1) : d.row.add(['a.hostname', node.port, node.name, c.height, c.synced ? "Yes" : "No", c.difficulty, (c.hashrate / 1E6).toFixed(2) + " MH/s", c.tx_pool_size, c.tx_count, c.incoming_connections_count, c.outgoing_connections_count,
+                        c.version
+                    ]).draw(!1)
+                }
+
+            }
+        })
+    }
+}
+
+
 
 
 function updateTable(d) {
     d.rows().remove()
-    $.each(nodes, function(f, a) {
-        $.ajax({
-            url: `https://api.turtlenode.io/${a.url}/${a.port}/getinfo`,
-            dataType: "json",
-            contentType: 'application/x-www-form-urlencoded', 
-            type: "GET",
-            cache: "false",
-            success: function(c) {
-                if (c.synced) {
-                   c.error ? d.row.add([a.name, a.port, a.name, 0, "No", 0, "0 H/s", 0, 0, 0, 0, "Unknown"]).draw(!1) : d.row.add(['a.hostname', a.port, a.name, c.height, c.synced ? "Yes" : "No", c.difficulty, (c.hashrate / 1E6).toFixed(2) + " MH/s", c.tx_pool_size, c.tx_count, c.incoming_connections_count, c.outgoing_connections_count,
-                    c.version
-                    ]).draw(!1) 
-                }
-                
-            }
-        })
-    })
-};
+    var defer = $.Deferred().resolve();
 
-function loadTable(d) {
-    $.each(nodes, function(f, a) {
-        $.ajax({
-            url: `https://api.turtlenode.io/${a.url}/${a.port}/getinfo`,
+    $.each(nodes, function(key, node) {
+        // Add next deferred to chain, it will be invoked when previous is completed
+        defer = defer.then(function() {
+            return AjaxLoadTable(key, node, d)
+        });
+    });
+
+    defer.then(function() {
+        console.log('All requests completed')
+    });
+
+
+    function AjaxLoadTable(key, node, d) {
+        return $.ajax({
+            url: `https://api.turtlenode.io/${node.url}/${node.port}/getinfo`,
             dataType: "json",
-            contentType: 'application/x-www-form-urlencoded', 
+            contentType: 'application/x-www-form-urlencoded',
             type: "GET",
             cache: "false",
             success: function(c) {
                 if (c.synced) {
-                   c.error ? d.row.add([a.name, a.port, a.name, 0, "No", 0, "0 H/s", 0, 0, 0, 0, "Unknown"]).draw(!1) : d.row.add(['a.hostname', a.port, a.name, c.height, c.synced ? "Yes" : "No", c.difficulty, (c.hashrate / 1E6).toFixed(2) + " MH/s", c.tx_pool_size, c.tx_count, c.incoming_connections_count, c.outgoing_connections_count,
-                    c.version
-                    ]).draw(!1) 
+                    c.error ? d.row.add([node.name, node.port, node.name, 0, "No", 0, "0 H/s", 0, 0, 0, 0, "Unknown"]).draw(!1) : d.row.add(['a.hostname', node.port, node.name, c.height, c.synced ? "Yes" : "No", c.difficulty, (c.hashrate / 1E6).toFixed(2) + " MH/s", c.tx_pool_size, c.tx_count, c.incoming_connections_count, c.outgoing_connections_count,
+                        c.version
+                    ]).draw(!1)
                 }
-                
+
             }
         })
-    })
-};
+    }
+}
