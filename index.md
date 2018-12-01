@@ -24,6 +24,7 @@ title: TurtleTurtle.org
 [trtl-explorer.xhub.cloud](https://trtl-explorer.xhub.cloud) → polar-it's Block Explorer and public daemon service  
 [turtle-block.com](https://turtle-block.com) → Cision's Block Explorer  
 [Turtle.Land](https://turtle.land/) → Close0ne Explorer - Useful Links - Wallets etc...  
+
 ### Social
 [chat.turtlecoin.lol](http://chat.turtlecoin.lol) → Discord  
 [facebook.turtlecoin.lol](https://www.facebook.com/groups/204815433401566/) → Facebook Group  
@@ -45,9 +46,9 @@ title: TurtleTurtle.org
 [openbazaar.org](https://openbazaar.org) → OpenBazaar Market   
 
 ### Centralized Exchanges  
-[altex.exchange](https://altex.exchange/markets&pair=BTC_TRTL) → Altex Exchange  
 [tradeogre.com](https://tradeogre.com) → TradeOgre Exchange   
 [tradesatoshi.com](https://tradesatoshi.com/Exchange/?market=TRTL_BTC) → Tradesatoshi Exchange   
+[bitlaxy.com](https://bilaxy.com/exchange#symbol=117) → Bitlaxy Exchange   
 
 ### Pools
 [cryptonote.social/trtl](https://cryptonote.social/trtl) → Predictable-Solo TRTL pool (USA West)  
