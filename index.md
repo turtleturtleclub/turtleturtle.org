@@ -46,7 +46,7 @@ title: TurtleTurtle.org
 [openbazaar.org](https://openbazaar.org) → OpenBazaar Market   
 
 ### Centralized Exchanges  
-[tradeogre.com](https://tradeogre.com) → TradeOgre Exchange   
+[tradeogre.com](https://tradeogre.com) → TradeOgre Exchange
 [tradesatoshi.com](https://tradesatoshi.com/Exchange/?market=TRTL_BTC) → Tradesatoshi Exchange   
 [bitlaxy.com](https://bilaxy.com/exchange#symbol=117) → Bitlaxy Exchange   
 
@@ -99,6 +99,7 @@ title: TurtleTurtle.org
 [TRTL CLI](https://github.com/turtlecoin/turtle-network-cli) → CLI tool to check TurtleCoin network status and community activity.  
 [shellnet.pw](https://shellnet.pw) → A web wallet for TurtleCoin payments  
 [Shellmap](https://shellmap.mine2gether.com/) → A graphical interface of world wide earth bound nodes.  
+[TurtleWallet.lol](https://turtlewallet.lol) → TRTL Web Wallet with advanced graphs, conversion and export keys functionality.
 
 ### Payment Integrations
 [TwitchTurtle](https://twitchturtle.com) → Streamlabs TurtleCoin integration  
