@@ -95,7 +95,8 @@ title: TurtleTurtle.org
 [Turtle Python GUI](https://github.com/turtlecoin/turtle-wallet-python)  
 [Turtle WinForms GUI](https://github.com/turtlecoin/turtle-wallet-winforms)  
 [TwitchTurtle](https://twitchturtle.com) → Streamlabs TurtleCoin integration  
-[TRTL CLI](https://github.com/turtlecoin/turtle-network-cli) → CLI tool to check TurtleCoin network status and community activity.  
+[TRTL CLI](https://github.com/turtlecoin/turtle-network-cli) → CLI tool to check TurtleCoin network status and community activity.
+[TRTL CLI py](https://github.com/turtlecoin/turtleturtle.org/edit/master/index.md) → CLI tool to check TurtleCoin network status and community activity, written in Python.
 [shellnet.pw](https://shellnet.pw) → A web wallet for TurtleCoin payments  
 [Shellmap](https://shellmap.mine2gether.com/) → A graphical interface of world wide earth bound nodes.  
 
@@ -108,7 +109,6 @@ title: TurtleTurtle.org
 
 ### Faucets
 [faucet.trtl.me](https://faucet.trtl.me) → krruzic's TurtleCoin Faucet  
-[rainsometurtles.xyz](https://rainsometurtles.xyz/) → RainsomeTurtles Faucet  
 [turtlecoin-faucet.xhub.cloud](http://turtlecoin-faucet.xhub.cloud) → polar-it's TurtleCoin Faucet based on krruzic's code  
 
 ### Asset Trackers
