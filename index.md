@@ -104,7 +104,7 @@ title: TurtleTurtle.org
 [Swanson Clicker](http://pages.turtlecoin.lol/~xaz/) → Turtle styled clicker game 
 
 ### Payment Integrations
-[TurtlePay](https://turtlepay.io/) →  Fun, fast, & easy crypto payments  
+[TurtlePay™](https://turtlepay.io) → TurtlePay™: TurtleCoin payments for developers, by developers
 [TwitchTurtle](https://twitchturtle.com) → Streamlabs TurtleCoin integration  
 [WooTurtle](https://github.com/turtlecoin/woo-turtle) → WooCommerce TurtleCoin integration  
 
@@ -112,6 +112,7 @@ title: TurtleTurtle.org
 [trtl-store](https://trtl-store.com) → TurtleCoin merchandise - all prices in TRTL all payments in TRTL  
 
 ### Faucets
+[trtlfaucet.com](https://trtlfaucet.com) → Submit some hashes, earn some TRTL
 [faucet.trtl.me](https://faucet.trtl.me) → krruzic's TurtleCoin Faucet  
 [faucethunter.online](https://faucethunter.online/index.php) →  Hunter Faucet: Referral links and  "Hunter Codes" are features of this faucet  
 [rainsometurtles.xyz](https://rainsometurtles.xyz/) → RainsomeTurtles Faucet  
