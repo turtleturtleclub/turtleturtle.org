@@ -125,6 +125,7 @@ title: TurtleTurtle.org
 [CryptoPricer](https://cryptopricer.net/currency/turtlecoin) → CryptoPricer  
 [LiveCoinWatch](https://www.livecoinwatch.com/price/TurtleCoin-TRTL) → LiveCoinWatch  
 [WorldCoinIndex](https://www.worldcoinindex.com/coin/turtlecoin) → WorldCoinIndex  
+[CoinLore](https://www.coinlore.com/coin/turtlecoin) → Coinlore  
 
 ### Darkweb
 [trtljx3ovmd7kjlc.onion](http://trtljx3ovmd7kjlc.onion/) → Tor hidden service of this site  
