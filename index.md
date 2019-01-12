@@ -50,6 +50,7 @@ title: TurtleTurtle.org
 ### Centralized Exchanges  
 [tradeogre.com](https://tradeogre.com) → TradeOgre Exchange   
 [tradesatoshi.com](https://tradesatoshi.com/Exchange/?market=TRTL_BTC) → Tradesatoshi Exchange   
+[bitlaxy.com](https://bilaxy.com/exchange#symbol=117) → Bitlaxy Exchange   
 
 ### Pools
 [cryptonote.social/trtl](https://cryptonote.social/trtl) → Predictable-Solo TRTL pool (USA West)  
@@ -94,6 +95,7 @@ title: TurtleTurtle.org
 [TRTL CLI](https://github.com/turtlecoin/turtle-network-cli) → CLI tool to check TurtleCoin network status and community activity.  
 [shellnet.pw](https://shellnet.pw) → A web wallet for TurtleCoin payments  
 [Shellmap](https://shellmap.mine2gether.com/) → A graphical interface of world wide earth bound nodes.  
+[TurtleWallet.lol](https://turtlewallet.lol) → TRTL Web Wallet with advanced graphs, conversion and export keys functionality.
 [Swanson Clicker](http://pages.turtlecoin.lol/~xaz/) → Turtle styled clicker game 
 
 ### Payment Integrations
