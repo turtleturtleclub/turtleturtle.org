@@ -110,6 +110,7 @@ title: TurtleTurtle.org
 [faucet.trtl.me](https://faucet.trtl.me) → krruzic's TurtleCoin Faucet  
 [rainsometurtles.xyz](https://rainsometurtles.xyz/) → RainsomeTurtles Faucet  
 [turtlecoin-faucet.xhub.cloud](http://turtlecoin-faucet.xhub.cloud) → polar-it's TurtleCoin Faucet based on krruzic's code  
+[trtlfaucet.de.cool](https://trtlfaucet.de.cool) → Fipsi's TurtleCoin Faucet for crypto-newbies
 
 ### Asset Trackers
 [CoinCodex](https://coincodex.com/crypto/turtlecoin/) → CoinCodex  
