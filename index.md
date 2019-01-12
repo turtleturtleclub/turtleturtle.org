@@ -16,6 +16,7 @@ title: TurtleTurtle.org
 [turtlenode.io](http://turtlenode.io) → Iburnmycd's public daemon service  
 [turtlenode.net](https://turtlenode.net) → Polar-it's European Public Daemon Service  
 [turtlenode.gocrypto.ro](https://turtlenode.gocrypto.ro) → GoCrypto's (Romania) Public Daemon Service  
+[turtle-node.tk](http://turtle-node.tk) → European public daemon service (fee 50 TRTL/Tr.)  
 
 
 ### Block Explorers
