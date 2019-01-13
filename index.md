@@ -54,7 +54,7 @@ title: TurtleTurtle.org
 [tradeogre.com](https://tradeogre.com) → TradeOgre Exchange   
 [tradesatoshi.com](https://tradesatoshi.com/Exchange/?market=TRTL_BTC) → Tradesatoshi Exchange   
 [bitlaxy.com](https://bilaxy.com/exchange#symbol=117) → Bitlaxy Exchange   
-[tokok.com](https://www.tokok.com/market?symbol=TRTL_ETH)-> TokTok Exchange
+[tokok.com](https://www.tokok.com/market?symbol=TRTL_ETH)-> Tokok Exchange
 
 
 ### Pools
