@@ -55,11 +55,11 @@ title: TurtleTurtle.org
 [openbazaar.org](https://openbazaar.org) → OpenBazaar Market   
 
 
-### Centralized Exchanges  
-[tradeogre.com](https://tradeogre.com) → TradeOgre Exchange   
+### Centralized Exchanges
+[tradeogre.com](https://tradeogre.com) → TradeOgre Exchange  
 [tradesatoshi.com](https://tradesatoshi.com/Exchange/?market=TRTL_BTC) → Tradesatoshi Exchange   
-[bitlaxy.com](https://bilaxy.com/exchange#symbol=117) → Bitlaxy Exchange   
-[tokok.com](https://www.tokok.com/market?symbol=TRTL_ETH)-> Tokok Exchange
+[bitlaxy.com](https://bilaxy.com/exchange#symbol=117) → Bitlaxy Exchange  
+[tokok.com](https://www.tokok.com/market?symbol=TRTL_ETH)-> Tokok Exchange  
 
 
 ### Pools
@@ -69,7 +69,7 @@ title: TurtleTurtle.org
 [ny.minetrtl.us](http://ny.minetrtl.us) → MineTRTL.us (USA NYC)  
 [pool.turtleco.in](http://pool.turtleco.in/) → USA West TurtleCo.In  
 [trtl.cryptohispano.net](https://trtl.cryptohispano.net) → Cryptohispano TRTL Pool (Only in Spanish)  
-[trtl.heigh-ho.funkypenguin.co.nz](https://trtl.heigh-ho.funkypenguin.co.nz) → Funky Penguin's TRTL Stew Pool (New Zealand)   
+[trtl.heigh-ho.funkypenguin.co.nz](https://trtl.heigh-ho.funkypenguin.co.nz) → Funky Penguin's TRTL Stew Pool (New Zealand)  
 [trtl.mine2gether.com](http://trtl.mine2gether.com/) → Mine2gether  
 [trtl.proxpool.com](http://trtl.proxpool.com/) → Proxpool TRTL Mining Pool  
 [trtlcoinpool.tk](http://trtlcoinpool.tk/) → RU TurtlePool  
@@ -83,7 +83,7 @@ title: TurtleTurtle.org
 [turtle.hashvault.pro](https://turtle.hashvault.pro/en/) → Turtle Hashvault.pro (Seems EU)  
 
 
-### Projects  
+### Projects
 [arch linux user package](https://aur.archlinux.org/packages/turtlecoin-git/) → wreiner's package of core for arch linux  
 [trtlbot++](https://github.com/krruzic/trtlbotplusplus) → Tip Bot  
 [TRTL Services](https://trtl.services/) → Turtlecoin as a Service  
@@ -103,13 +103,13 @@ title: TurtleTurtle.org
 [TurtleWallet](https://turtlewallet.lol/) →  Turtlecoin Web Wallet  
 [Turtle WinForms GUI](https://github.com/turtlecoin/turtle-wallet-winforms)  
 [TwitchTurtle](https://twitchturtle.com) → Streamlabs TurtleCoin integration  
-[TRTL CLI](https://github.com/turtlecoin/turtle-network-cli) → CLI tool to check TurtleCoin network status and community activity.
-[TRTL CLI py](https://github.com/turtlecoin/turtleturtle.org/edit/master/index.md) → CLI tool to check TurtleCoin network status and community activity, written in Python.
+[TRTL CLI](https://github.com/turtlecoin/turtle-network-cli) → CLI tool to check TurtleCoin network status and community activity.  
+[TRTL CLI py](https://github.com/turtlecoin/turtleturtle.org/edit/master/index.md) → CLI tool to check TurtleCoin network status and community activity, written in Python.  
 [shellnet.pw](https://shellnet.pw) → A web wallet for TurtleCoin payments  
 [Shellmap](https://shellmap.mine2gether.com/) → A graphical interface of world wide earth bound nodes.  
-[Who sent 10 Turtle?](https://whosent10turtles.info/) → A fun game that lets you test TurtleCoin payments.
-[TurtleWallet.lol](https://turtlewallet.lol) → TRTL Web Wallet with advanced graphs, conversion and export keys functionality.
-[Swanson Clicker](http://pages.turtlecoin.lol/~xaz/) → Turtle styled clicker game 
+[Who sent 10 Turtle?](https://whosent10turtles.info/) → A fun game that lets you test TurtleCoin payments.  
+[TurtleWallet.lol](https://turtlewallet.lol) → TRTL Web Wallet with advanced graphs, conversion and export keys functionality.  
+[Swanson Clicker](http://pages.turtlecoin.lol/~xaz/) → Turtle styled clicker game  
 
 
 ### Payment Integrations
@@ -123,12 +123,12 @@ title: TurtleTurtle.org
 
 
 ### Faucets
-[trtlfaucet.com](https://trtlfaucet.com) → Submit some hashes, earn some TRTL
+[trtlfaucet.com](https://trtlfaucet.com) → Submit some hashes, earn some TRTL  
 [faucet.trtl.me](https://faucet.trtl.me) → krruzic's TurtleCoin Faucet  
 [faucethunter.online](https://faucethunter.online/index.php) →  Hunter Faucet: Referral links and  "Hunter Codes" are features of this faucet  
 [rainsometurtles.xyz](https://rainsometurtles.xyz/) → RainsomeTurtles Faucet  
 [turtlecoin-faucet.xhub.cloud](http://turtlecoin-faucet.xhub.cloud) → polar-it's TurtleCoin Faucet based on krruzic's code  
-[trtlfaucet.de.cool](https://trtlfaucet.de.cool) → Fipsi's TurtleCoin Faucet for crypto-newbies
+[trtlfaucet.de.cool](https://trtlfaucet.de.cool) → Fipsi's TurtleCoin Faucet for crypto-newbies  
 
 
 ### Asset Trackers
