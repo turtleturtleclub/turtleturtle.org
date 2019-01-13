@@ -113,7 +113,7 @@ title: TurtleTurtle.org
 
 
 ### Payment Integrations
-[TurtlePay™](https://turtlepay.io) → TurtlePay™: TurtleCoin payments for developers, by developers
+[TurtlePay™](https://turtlepay.io) → TurtlePay™: TurtleCoin payments for developers, by developers  
 [TwitchTurtle](https://twitchturtle.com) → Streamlabs TurtleCoin integration  
 [WooTurtle](https://github.com/turtlecoin/woo-turtle) → WooCommerce TurtleCoin integration  
 
