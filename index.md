@@ -4,17 +4,19 @@ title: TurtleTurtle.org
 ---
 ### Official
 [turtlecoin.lol](http://turtlecoin.lol) → Official TurtleCoin Website  
+[explorer.turtlecoin.lol](https://explorer.turtlecoin.lol) → Official TurtleCoin Blockchain Explorer  
 [blog.turtlecoin.lol](https://blog.turtlecoin.lol) → TurtleCoin Dev Blog  
 [github.turtlecoin.lol](https://github.com/turtlecoin) → Development  
 [chat.turtlecoin.lol](http://chat.turtlecoin.lol) → Discord Chat  
 [encrypted.turtlecoin.lol](https://keybase.io/turtlecoin) → Encrypted Chat & Public Keys  
 
+
 ### Public Daemons
+[trtl.nodes.pub](http://trtl.nodes.pub/) → Public TurtleCoin nodes listing with availability tracking and node fee support  
 [turtleland.fun](http://turtleland.fun) → mrlahaye's public daemon service  
 [turtlenode.online](https://turtlenode.online) → morpheus' public daemon service  
 [trtl-explorer.xhub.cloud](https://trtl-explorer.xhub.cloud) → polar-it's Block Explorer and public daemon service  
 [trtl.node4whales.tk](https://trtl.node4whales.tk) → bigg_dicc_bee's public daemon service  
-[turtlenode.io](http://turtlenode.io) → Iburnmycd's public daemon service  
 [turtlenode.net](https://turtlenode.net) → Polar-it's European Public Daemon Service  
 [turtlenode.gocrypto.ro](https://turtlenode.gocrypto.ro) → GoCrypto's (Romania) Public Daemon Service  
 [cuveetrtl.czech.cloud](http://cuveetrtl.czech.cloud) → CuvéeTrtl Public Public Daemon Service  
@@ -29,6 +31,7 @@ title: TurtleTurtle.org
 [turtle-block.com](https://turtle-block.com) → Cision's Block Explorer  
 [Turtle.Land](https://turtle.land/) → Close0ne Explorer - Useful Links - Wallets etc...  
 
+
 ### Social
 [chat.turtlecoin.lol](http://chat.turtlecoin.lol) → Discord  
 [facebook.turtlecoin.lol](https://www.facebook.com/groups/204815433401566/) → Facebook Group  
@@ -37,6 +40,7 @@ title: TurtleTurtle.org
 [medium.com](https://medium.com/@turtlecoin) → Medium Blog  
 [reddit.turtlecoin.lol](https://trtl.reddit.com) → Reddit  
 [twitter.turtlecoin.lol](https://twitter.com/_turtlecoin) → Twitter  
+
 
 ### Guides
 [docs.turtlecoin.lol](https://docs.turtlecoin.lol) → MkDocs frontend for TurtleCoin Wiki  
@@ -49,6 +53,7 @@ title: TurtleTurtle.org
 ### Decentralized Exchanges
 [bisq.network](https://bisq.network) → Bisq Network  
 [openbazaar.org](https://openbazaar.org) → OpenBazaar Market   
+
 
 ### Centralized Exchanges  
 [tradeogre.com](https://tradeogre.com) → TradeOgre Exchange   
@@ -76,6 +81,7 @@ title: TurtleTurtle.org
 [us.turtlepool.space](http://us.turtlepool.space/) → USA TurtlePool  
 [trtl.cryptopool.space](https://trtl.cryptopool.space/) → Turtle CryptoPool.Space (World Wide)  
 [turtle.hashvault.pro](https://turtle.hashvault.pro/en/) → Turtle Hashvault.pro (Seems EU)  
+
 
 ### Projects  
 [arch linux user package](https://aur.archlinux.org/packages/turtlecoin-git/) → wreiner's package of core for arch linux  
@@ -105,13 +111,16 @@ title: TurtleTurtle.org
 [TurtleWallet.lol](https://turtlewallet.lol) → TRTL Web Wallet with advanced graphs, conversion and export keys functionality.
 [Swanson Clicker](http://pages.turtlecoin.lol/~xaz/) → Turtle styled clicker game 
 
+
 ### Payment Integrations
 [TurtlePay™](https://turtlepay.io) → TurtlePay™: TurtleCoin payments for developers, by developers
 [TwitchTurtle](https://twitchturtle.com) → Streamlabs TurtleCoin integration  
 [WooTurtle](https://github.com/turtlecoin/woo-turtle) → WooCommerce TurtleCoin integration  
 
+
 ### Merchants
 [trtl-store](https://trtl-store.com) → TurtleCoin merchandise - all prices in TRTL all payments in TRTL  
+
 
 ### Faucets
 [trtlfaucet.com](https://trtlfaucet.com) → Submit some hashes, earn some TRTL
@@ -120,6 +129,7 @@ title: TurtleTurtle.org
 [rainsometurtles.xyz](https://rainsometurtles.xyz/) → RainsomeTurtles Faucet  
 [turtlecoin-faucet.xhub.cloud](http://turtlecoin-faucet.xhub.cloud) → polar-it's TurtleCoin Faucet based on krruzic's code  
 [trtlfaucet.de.cool](https://trtlfaucet.de.cool) → Fipsi's TurtleCoin Faucet for crypto-newbies
+
 
 ### Asset Trackers
 [CoinCodex](https://coincodex.com/crypto/turtlecoin/) → CoinCodex  
@@ -134,6 +144,7 @@ title: TurtleTurtle.org
 [LiveCoinWatch](https://www.livecoinwatch.com/price/TurtleCoin-TRTL) → LiveCoinWatch  
 [WorldCoinIndex](https://www.worldcoinindex.com/coin/turtlecoin) → WorldCoinIndex  
 [CoinLore](https://www.coinlore.com/coin/turtlecoin) → Coinlore  
+
 
 ### Darkweb
 [trtljx3ovmd7kjlc.onion](http://trtljx3ovmd7kjlc.onion/) → Tor hidden service of this site  
