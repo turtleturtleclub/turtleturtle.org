@@ -12,8 +12,8 @@ title: TurtleTurtle.org
 ### Public Daemons
 [turtleland.fun](http://turtleland.fun) → mrlahaye's public daemon service  
 [turtlenode.online](https://turtlenode.online) → morpheus' public daemon service  
-[trtl-explorer.xhub.cloud](https://trtl-explorer.xhub.cloud) → polar-it's Block Explorer and public daemon service 
-[trtl.node4whales.tk](https://trtl.node4whales.tk) → bigg_dicc_bee's public daemon service
+[trtl-explorer.xhub.cloud](https://trtl-explorer.xhub.cloud) → polar-it's Block Explorer and public daemon service  
+[trtl.node4whales.tk](https://trtl.node4whales.tk) → bigg_dicc_bee's public daemon service  
 [turtlenode.io](http://turtlenode.io) → Iburnmycd's public daemon service  
 [turtlenode.net](https://turtlenode.net) → Polar-it's European Public Daemon Service  
 [turtlenode.gocrypto.ro](https://turtlenode.gocrypto.ro) → GoCrypto's (Romania) Public Daemon Service  
