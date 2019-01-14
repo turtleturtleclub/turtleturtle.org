@@ -95,6 +95,7 @@ title: TurtleTurtle.org
 [TurtleCoin Supply](http://turtlecoin.supply) → Check current and future TurtleCoin's supply.  
 [TurtleCoin Video Interviews](https://turtlecoin.github.io/video/) → Playlist of TurtleCoin related videos and interviews.  
 [TurtleCities](http://pages.turtlecoin.lol/) → Free hosting for TurtleCoin users and contributors. 1.44MB of floppy disk space, no database  
+[TurtleDice](https://turtledice.de.cool/) → Bet and try your luck in this TurtleCoin dice game
 [Turtle Electron GUI](https://github.com/turtlecoin/turtle-wallet-electron)  
 [Turtle Faucet](https://faucet.trtl.me) → Captcha Some Turtles  
 [Turtle Miner](http://turtleminer.com/) → Web Miner for TurtleCoin  
