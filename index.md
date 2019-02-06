@@ -114,6 +114,7 @@ title: TurtleTurtle.org
 [Who sent 10 Turtle?](https://whosent10turtles.info/) → A fun game that lets you test TurtleCoin payments with TurtlePay™.  
 [TurtleWallet.lol](https://turtlewallet.lol) → TRTL Web Wallet with advanced graphs, conversion and export keys functionality.  
 [Swanson Clicker](http://pages.turtlecoin.lol/~xaz/) → Turtle styled clicker game  
+[MegaTurtle](https://megaturtle.lol/) → MegaTurtle.lol - Compare M-TRTL to Bitcoin and info about the coin economics of TurtleCoin  
 
 
 ### Payment Integrations
