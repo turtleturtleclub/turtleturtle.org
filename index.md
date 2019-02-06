@@ -134,6 +134,7 @@ title: TurtleTurtle.org
 [rainsometurtles.xyz](https://rainsometurtles.xyz/) → RainsomeTurtles Faucet  
 [turtlecoin-faucet.xhub.cloud](http://turtlecoin-faucet.xhub.cloud) → polar-it's TurtleCoin Faucet based on krruzic's code  
 [trtlfaucet.de.cool](https://trtlfaucet.de.cool) → Fipsi's TurtleCoin Faucet for crypto-newbies  
+[trtl.faucet.llama.horse](https://trtl.faucet.llama.horse/) → Llama & Horse free turtles! Come and get 'em!  
 
 
 ### Asset Trackers
