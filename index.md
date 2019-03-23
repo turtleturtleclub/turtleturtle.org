@@ -11,18 +11,10 @@ title: TurtleTurtle.org
 [encrypted.turtlecoin.lol](https://keybase.io/turtlecoin) → Encrypted Chat & Public Keys  
 
 
-### Public Daemons
+### Public Daemon Info
+[turtlecoin-nodes-json](https://github.com/turtlecoin/turtlecoin-nodes-json) → Add your public node here, sites below use this list as well as wallets and others  
 [trtl.nodes.pub](http://trtl.nodes.pub/) → Public TurtleCoin nodes listing with availability tracking and node fee support  
-[turtleland.fun](http://turtleland.fun) → mrlahaye's public daemon service  
-[turtlenode.online](https://turtlenode.online) → morpheus' public daemon service  
-[trtl-explorer.xhub.cloud](https://trtl-explorer.xhub.cloud) → polar-it's Block Explorer and public daemon service  
-[trtl.node4whales.tk](https://trtl.node4whales.tk) → bigg_dicc_bee's public daemon service  
-[turtlenode.net](https://turtlenode.net) → Polar-it's European Public Daemon Service  
-[turtlenode.gocrypto.ro](https://turtlenode.gocrypto.ro) → GoCrypto's (Romania) Public Daemon Service  
-[cuveetrtl.czech.cloud](http://cuveetrtl.czech.cloud) → CuvéeTrtl Public Public Daemon Service  
-[turtle-node.tk](http://turtle-node.tk) → European public daemon service (fee 50 TRTL/Tr.)  
-[trtlnode.space](http://trtlnode.space) → Russian TurtleCoin pubilc daemon (fee 5.00 TRTL)  
-
+[trtl.rocks](http://trtl.rocks/nodes) → Live public TurtleCoin nodes tracker/reporter  
 
 ### Block Explorers
 [explorer.turtlecoin.lol](https://explorer.turtlecoin.lol) → Official TurtleCoin Blockchain Explorer  
