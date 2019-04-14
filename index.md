@@ -59,6 +59,7 @@ title: TurtleTurtle.org
 
 ### Pools
 [cryptonote.social/trtl](https://cryptonote.social/trtl) → Predictable-Solo TRTL pool (USA West)  
+[CuvéeARM Pool](https://publicnode.ydns.eu) → CuvéeARM TurtleCoin Pool (Europe, Prague, CZ) 
 [eu.turtlepool.space](http://eu.turtlepool.space/) → EUR TurtlePool  
 [hk.turtlepool.space](http://hk.turtlepool.space/) → HK TurtlePool  
 [ny.minetrtl.us](http://ny.minetrtl.us) → MineTRTL.us (USA NYC)  
