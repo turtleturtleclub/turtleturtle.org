@@ -78,6 +78,7 @@ title: TurtleTurtle.org
 [trtl.cryptopool.space](https://trtl.cryptopool.space/) → Turtle CryptoPool.Space (World Wide)  
 [turtle.hashvault.pro](https://turtle.hashvault.pro/en/) → Turtle Hashvault.pro (Seems EU)  
 [coinpoolit.webhop.me](https://coinpoolit.webhop.me/trtl) → Coinpoolit Italian Pool 
+[turtle.mining.garden](http://turtle.mining.garden/) → MiningGarden
 
 
 ### Projects
