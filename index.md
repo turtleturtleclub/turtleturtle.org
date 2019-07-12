@@ -87,6 +87,7 @@ title: TurtleTurtle.org
 [TRTL Services](https://trtl.services/) → Turtlecoin as a Service  
 [Turtacus Website](http://turtacus.com/) → Turtacus Info & Stats  
 [Turtacus Leaderboard](http://turtacus.com/leaderboard) → Turtacus Leaderboard  
+[Turtle Arcade](http://turtlearcade.games) → Collection of games made by the TRTL community  
 [TurtleBot](https://github.com/CaptainMeatloaf/TurtleBot) → TurtleBot - Network Stats Monitor  
 [Turtle C# GUI](https://github.com/turtlecoin/turtle-wallet-csharp)  
 [TurtleCoin Snail Races](https://discord.gg/xUyS7Xm) → Discord for TurtleCoin snail racing  
