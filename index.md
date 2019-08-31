@@ -13,7 +13,7 @@ title: TurtleTurtle.org
 
 ### Public Daemon Info
 [turtlecoin-nodes-json](https://github.com/turtlecoin/turtlecoin-nodes-json) → Add your public node here, sites below use this list as well as wallets and others  
-[explorer.turtlecoin.lol](https://explorer.turtlecoin.lol/nodes.html) → Live public TurtleCoin nodes tracker on the official block explorer
+[explorer.turtlecoin.lol](https://explorer.turtlecoin.lol/nodes.html) → Live public TurtleCoin nodes tracker on the official block Explorer. 
 [trtl.nodes.pub](http://trtl.nodes.pub/) → Public TurtleCoin nodes listing with availability tracking and node fee support  
 [trtl.rocks](http://trtl.rocks/nodes) → Live public TurtleCoin nodes tracker/reporter  
 
@@ -61,7 +61,7 @@ title: TurtleTurtle.org
 
 ### Pools
 [cryptonote.social/trtl](https://cryptonote.social/trtl) → Predictable-Solo TRTL pool (USA West)  
-[CuvéeARM Pool](https://publicnode.ydns.eu) → CuvéeARM TurtleCoin Pool (Europe, Prague, CZ) 
+[CuvéeARM Pool](https://publicnode.ydns.eu) → CuvéeARM TurtleCoin Pool (Europe, Prague, CZ)  
 [eu.turtlepool.space](http://eu.turtlepool.space/) → EUR TurtlePool  
 [hk.turtlepool.space](http://hk.turtlepool.space/) → HK TurtlePool  
 [ny.minetrtl.us](http://ny.minetrtl.us) → MineTRTL.us (USA NYC)  
@@ -79,8 +79,8 @@ title: TurtleTurtle.org
 [us.turtlepool.space](http://us.turtlepool.space/) → USA TurtlePool  
 [trtl.cryptopool.space](https://trtl.cryptopool.space/) → Turtle CryptoPool.Space (World Wide)  
 [turtle.hashvault.pro](https://turtle.hashvault.pro/en/) → Turtle Hashvault.pro (Seems EU)  
-[coinpoolit.webhop.me](https://coinpoolit.webhop.me/trtl) → Coinpoolit Italian Pool 
-[turtle.mining.garden](http://turtle.mining.garden/) → MiningGarden
+[coinpoolit.webhop.me](https://coinpoolit.webhop.me/trtl) → Coinpoolit Italian Pool  
+[turtle.mining.garden](http://turtle.mining.garden/) → MiningGarden  
 
 
 ### Projects
