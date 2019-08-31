@@ -117,7 +117,7 @@ title: TurtleTurtle.org
 [MegaTurtle](https://megaturtle.lol/) → Compare M-TRTL to Bitcoin and info about the coin economics of TurtleCoin  
 [TRTL Button](https://trtlbutton.com/) → Simple button generator to get paid in TurtleCoin  
 [dns.turtlecoin.lol](http://dns.turtlecoin.lol) → .trtl TLD Domain Name Services  
-[proxy.turtlecoin.lol](http://proxy.turtlecoin.lol) → TRTL Proxy for .trtl domains 
+[proxy.turtlecoin.lol](http://proxy.turtlecoin.lol) → TRTL Proxy for .trtl domains  
 [ns1.turtlecoin.lol/ipfs](https://ns1.turtlecoin.lol/ipfs) → TRTL IPFS Checkpoints & IPFS gateway  
 
 ### Payment Integrations
