@@ -13,6 +13,7 @@ title: TurtleTurtle.org
 
 ### Public Daemon Info
 [turtlecoin-nodes-json](https://github.com/turtlecoin/turtlecoin-nodes-json) → Add your public node here, sites below use this list as well as wallets and others  
+[explorer.turtlecoin.lol](https://explorer.turtlecoin.lol/nodes.html) → Live public TurtleCoin nodes tracker on the official block explorer
 [trtl.nodes.pub](http://trtl.nodes.pub/) → Public TurtleCoin nodes listing with availability tracking and node fee support  
 [trtl.rocks](http://trtl.rocks/nodes) → Live public TurtleCoin nodes tracker/reporter  
 
