@@ -4,8 +4,6 @@ title: TurtleTurtle.org
 ---
 ### Official
 [turtlecoin.lol](http://turtlecoin.lol) → Official TurtleCoin® Website  
-[blog.turtlecoin.com](https://blog.turtlecoin.com) → Official TurtleCoin® Blog  
-[chat.turtlecoin.lol](https://chat.turtlecoin.lol) → Official TurtleCoin® Chat  
 [github.turtlecoin.lol](https://github.com/turtlecoin) → Official TurtleCoin® Development  
 [encrypted.turtlecoin.lol](https://keybase.io/turtlecoin) → Official TurtleCoin® Encrypted Chat & Public Keys  
 [explorer.turtlecoin.lol](https://explorer.turtlecoin.lol) → Official TurtleCoin® Blockchain Explorer  
