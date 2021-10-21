@@ -3,158 +3,120 @@ layout: turtleturtle
 title: TurtleTurtle.org
 ---
 ### Official
-[turtlecoin.lol](http://turtlecoin.lol) → Official TurtleCoin Website  
-[explorer.turtlecoin.lol](https://explorer.turtlecoin.lol) → Official TurtleCoin Blockchain Explorer  
-[blog.turtlecoin.lol](https://blog.turtlecoin.lol) → TurtleCoin Dev Blog  
-[github.turtlecoin.lol](https://github.com/turtlecoin) → Development  
-[chat.turtlecoin.lol](http://chat.turtlecoin.lol) → Discord Chat  
-[encrypted.turtlecoin.lol](https://keybase.io/turtlecoin) → Encrypted Chat & Public Keys  
+[turtlecoin.lol](http://turtlecoin.lol) → Official TurtleCoin® Website  
+[blog.turtlecoin.com](https://blog.turtlecoin.com) → Official TurtleCoin® Blog  
+[chat.turtlecoin.lol](https://chat.turtlecoin.lol) → Official TurtleCoin® Chat  
+[github.turtlecoin.lol](https://github.com/turtlecoin) → Official TurtleCoin® Development  
+[encrypted.turtlecoin.lol](https://keybase.io/turtlecoin) → Official TurtleCoin® Encrypted Chat & Public Keys  
+[explorer.turtlecoin.lol](https://explorer.turtlecoin.lol) → Official TurtleCoin® Blockchain Explorer  
+[meta.turtlecoin.lol](https://github.com/turtlecoin/meta) → Official TurtleCoin® Suggestion and Collaboration Board  
 
 
-### Public Daemon Info
-[turtlecoin-nodes-json](https://github.com/turtlecoin/turtlecoin-nodes-json) → Add your public node here, sites below use this list as well as wallets and others  
-[explorer.turtlecoin.lol](https://explorer.turtlecoin.lol/nodes.html) → Live public TurtleCoin nodes tracker on the official block Explorer  
-[trtl.nodes.pub](http://trtl.nodes.pub/) → Public TurtleCoin nodes listing with availability tracking and node fee support  
-[trtl.rocks](http://trtl.rocks/nodes) → Live public TurtleCoin nodes tracker/reporter  
+### Official Social
+[blog.turtlecoin.com](https://blog.turtlecoin.com) → Official TurtleCoin® Blog  
+[chat.turtlecoin.lol](http://chat.turtlecoin.lol) → Official TurtleCoin® Discord  
+[facebook.turtlecoin.lol](https://www.facebook.com/trtlcoin/) → Official TurtleCoin® Facebook Community  
+[github.turtlecoin.lol](https://github.com/turtlecoin) → Official TurtleCoin® GitHub  
+[instagram.turtlecoin.lol](https://www.instagram.com/_turtlecoin/) → Official TurtleCoin® Instagram  
+[reddit.turtlecoin.lol](https://trtl.reddit.com) → Official TurtleCoin® Reddit  
+[twitter.turtlecoin.lol](https://twitter.com/_turtlecoin) → Official TurtleCoin® Twitter  
 
 
 ### Block Explorers
-[explorer.turtlecoin.lol](https://explorer.turtlecoin.lol) → Official TurtleCoin Blockchain Explorer  
-[blocks.turtle.link](https://blocks.turtle.link) → Tom's Block Explorer and APIs  
-[explorer.trtlpwr.cc](https://explorer.trtlpwr.cc) → Pypper's block explorer  
-[trtl-explorer.xhub.cloud](https://trtl-explorer.xhub.cloud) → polar-it's Block Explorer and public daemon service  
-[trtl.rocks](http://trtl.rocks) → Andrew's Block Explorer  
-[turtle-block.com](https://turtle-block.com) → Cision's Block Explorer  
-[Turtle.Land](https://turtle.land/) → Close0ne Explorer - Useful Links - Wallets etc...  
+[explorer.turtlecoin.lol](https://explorer.turtlecoin.lol) → Official TurtleCoin® Blockchain Explorer  
 
 
-### Social
-[chat.turtlecoin.lol](http://chat.turtlecoin.lol) → Discord  
-[facebook.turtlecoin.lol](https://www.facebook.com/groups/204815433401566/) → Facebook Group  
-[github.turtlecoin.lol](https://github.com/turtlecoin) → GitHub  
-[instagram.turtlecoin.lol](https://www.instagram.com/_turtlecoin/) → Instagram  
-[medium.com](https://medium.com/@turtlecoin) → Medium Blog  
-[reddit.turtlecoin.lol](https://trtl.reddit.com) → Reddit  
-[twitter.turtlecoin.lol](https://twitter.com/_turtlecoin) → Twitter  
+### Daemon Info
+[turtlecoin-nodes-json](https://github.com/turtlecoin/turtlecoin-nodes-json) → Add your public node here, sites below use this list as well as wallets and others  
+[explorer.turtlecoin.lol](https://explorer.turtlecoin.lol/nodes.html) → Live public TurtleCoin® nodes tracker on the official block Explorer   
 
 
-### Guides
-[docs.turtlecoin.lol](https://docs.turtlecoin.lol) → MkDocs frontend for TurtleCoin Wiki  
-[docs.turtlecoin.lol](https://docs.turtlecoin.lol/guides/using-trtlbot-plus-plus/) → Tip Jar Guide  
-[funkypenguin.co.nz](https://geek-cookbook.funkypenguin.co.nz/recipies/turtle-pool/) → Docker Swarm Pool Setup  
-[trtl.services/docs/](https://trtl.services/docs/) →  TRTL.services API Documentaion  
-[wiki.turtlecoin.lol](https://github.com/turtlecoin/turtlecoin/wikis) → TurtleCoin Wiki  
+### Exchanges
+[coinex.com](https://www.coinex.com/exchange/trtl-usdt) → CoinEx - TRTL/BTC, TRTL/USDT  
+[hotbit.io](https://www.hotbit.io/exchange?symbol=TRTL_USDT) → Hotbit - TRTL/BTC, TRTL/ETH, TRTL/USDT  
+[trade.kucoin.com](https://trade.kucoin.com/TRTL-BTC) → KuCoin - TRTL/BTC, TRTL/ETH  
+[tradeogre.com](https://tradeogre.com) → TradeOgre - TRTL/BTC, TRTL/LTC  
+[tokok.com](https://www.tokok.com/market?symbol=TRTL_USDT) → Tokok - TRTL/ETH, TRTL/USDT  
+[x.vite.net](https://x.vite.net/trade?symbol=TRTL-000_ETH-000) → - Vitex TRTL/ETH  
 
 
-### Decentralized Exchanges
-[bisq.network](https://bisq.network) → Bisq Network  
-[openbazaar.org](https://openbazaar.org) → OpenBazaar Market  
-
-
-### Centralized Exchanges
-[tradeogre.com](https://tradeogre.com) → TradeOgre Exchange  
-[tradesatoshi.com](https://tradesatoshi.com/Exchange/?market=TRTL_BTC) → Tradesatoshi Exchange  
-[bitlaxy.com](https://bilaxy.com/exchange#symbol=117) → Bitlaxy Exchange  
-[tokok.com](https://www.tokok.com/market?symbol=TRTL_ETH) → Tokok Exchange  
-[tradelly.co](https://tradelly.co/) → Tradelly Exchange - by fipsi  
-
-
-### Pools
-[cryptonote.social/trtl](https://cryptonote.social/trtl) → Predictable-Solo TRTL pool (USA West)  
-[CuvéeARM Pool](https://publicnode.ydns.eu) → CuvéeARM TurtleCoin Pool (Europe, Prague, CZ)  
-[eu.turtlepool.space](http://eu.turtlepool.space/) → EUR TurtlePool  
-[hk.turtlepool.space](http://hk.turtlepool.space/) → HK TurtlePool  
-[ny.minetrtl.us](http://ny.minetrtl.us) → MineTRTL.us (USA NYC)  
-[pool.turtleco.in](http://pool.turtleco.in/) → USA West TurtleCo.In  
-[trtl.cryptohispano.net](https://trtl.cryptohispano.net) → Cryptohispano TRTL Pool (Only in Spanish)  
-[trtl.heigh-ho.funkypenguin.co.nz](https://trtl.heigh-ho.funkypenguin.co.nz) → Funky Penguin's TRTL Stew Pool (New Zealand)  
-[trtl.mine2gether.com](http://trtl.mine2gether.com/) → Mine2gether  
-[trtl.proxpool.com](http://trtl.proxpool.com/) → Proxpool TRTL Mining Pool  
-[trtlcoinpool.tk](http://trtlcoinpool.tk/) → RU TurtlePool  
-[turtle.atpool.party](http://turtle.atpool.party/) → Sweden ATPool.party  
-[Turtle.Casa](https://turtle.casa/) → Close0ne Pool - Pool for Turtle.Land explorer  
-[turtle.minersunite.net](https://turtle.minersunite.net) → Minersunite Pool (Germany)  
-[turtlepool.ml](http://turtlepool.ml) → EUR TurtlePool  
-[turtleminers.club](http://turtleminers.club) → Turtle Miners Club TRTL Pool (USA)  
-[us.turtlepool.space](http://us.turtlepool.space/) → USA TurtlePool  
-[trtl.cryptopool.space](https://trtl.cryptopool.space/) → Turtle CryptoPool.Space (World Wide)  
-[turtle.hashvault.pro](https://turtle.hashvault.pro/en/) → Turtle Hashvault.pro (Seems EU)  
-[coinpoolit.webhop.me](https://coinpoolit.webhop.me/trtl) → Coinpoolit Italian Pool  
-[turtle.mining.garden](http://turtle.mining.garden/) → MiningGarden  
-
-
-### Projects
-[arch linux user package](https://aur.archlinux.org/packages/turtlecoin-git/) → wreiner's package of core for arch linux  
-[trtlbot++](https://github.com/krruzic/trtlbotplusplus) → Tip Bot  
-[TRTL Services](https://trtl.services/) → Turtlecoin as a Service  
-[Turtacus Website](http://turtacus.com/) → Turtacus Info & Stats  
-[Turtacus Leaderboard](http://turtacus.com/leaderboard) → Turtacus Leaderboard  
-[Turtle Arcade](http://turtlearcade.games) → Collection of games made by the TRTL community  
-[TurtleBot](https://github.com/CaptainMeatloaf/TurtleBot) → TurtleBot - Network Stats Monitor  
-[Turtle C# GUI](https://github.com/turtlecoin/turtle-wallet-csharp)  
-[TurtleCoin Snail Races](https://discord.gg/xUyS7Xm) → Discord for TurtleCoin snail racing  
-[TurtleCoin Supply](http://turtlecoin.supply) → Check current and future TurtleCoin's supply.  
-[TurtleCoin Video Interviews](https://turtlecoin.github.io/video/) → Playlist of TurtleCoin related videos and interviews.  
-[TurtleCities](http://pages.turtlecoin.lol/) → Free hosting for TurtleCoin users and contributors. 1.44MB of floppy disk space, no database  
-[TurtleDice](https://turtledice.de.cool/) → Bet and try your luck in this TurtleCoin dice game  
-[Turtle Electron GUI](https://github.com/turtlecoin/turtle-wallet-electron)  
-[Turtle Faucet](https://faucet.trtl.me) → Captcha Some Turtles  
-[Turtle Miner](http://turtleminer.com/) → Web Miner for TurtleCoin  
-[Turtle Nest GUI](https://github.com/turtlecoin/turtle-wallet-go)  
-[Turtle Python GUI](https://github.com/turtlecoin/turtle-wallet-python)  
-[TurtleWallet](https://turtlewallet.lol/) →  Turtlecoin Web Wallet  
-[Turtle WinForms GUI](https://github.com/turtlecoin/turtle-wallet-winforms)  
-[TwitchTurtle](https://twitchturtle.com) → Streamlabs TurtleCoin integration  
-[trtl.bet](https://trtl.bet) → Simple jackpot site for TurtleCoin built with TurtlePay™  
-[TRTL CLI](https://github.com/turtlecoin/turtle-network-cli) → CLI tool to check TurtleCoin network status and community activity.  
-[TRTL CLI py](https://github.com/turtlecoin/turtleturtle.org/edit/master/index.md) → CLI tool to check TurtleCoin network status and community activity, written in Python.  
-[TRTL Farm](https://trtlfarm.com) → First farming game that can be played with TurtleCoins built with TRTL Services  
-[shellnet.pw](https://shellnet.pw) → A web wallet for TurtleCoin payments  
-[Shellmap](https://shellmap.mine2gether.com/) → A graphical interface of world wide earth bound nodes.  
-[Who sent 10 Turtle?](https://whosent10turtles.info/) → A fun game that lets you test TurtleCoin payments with TurtlePay™.  
-[TurtleWallet.lol](https://turtlewallet.lol) → TRTL Web Wallet with advanced graphs, conversion and export keys functionality.  
-[Swanson Clicker](http://pages.turtlecoin.lol/~xaz/) → Turtle styled clicker game  
-[MegaTurtle](https://megaturtle.lol/) → Compare M-TRTL to Bitcoin and info about the coin economics of TurtleCoin  
-[TRTL Button](https://trtlbutton.com/) → Simple button generator to get paid in TurtleCoin  
-[dns.turtlecoin.lol](http://dns.turtlecoin.lol) → .trtl TLD Domain Name Services  
-[proxy.turtlecoin.lol](http://proxy.turtlecoin.lol) → TRTL Proxy for .trtl domains  
-[ns1.turtlecoin.lol/ipfs](https://ns1.turtlecoin.lol/ipfs) → TRTL IPFS Checkpoints & IPFS gateway  
-
-### Payment Integrations
-[TurtlePay™](https://turtlepay.io) → TurtlePay™: TurtleCoin payments for developers, by developers  
-[TwitchTurtle](https://twitchturtle.com) → Streamlabs TurtleCoin integration  
-[WooTurtle](https://github.com/turtlecoin/woo-turtle) → WooCommerce TurtleCoin integration  
-
-
-### Merchants
-[trtl-store](https://trtl-store.com) → TurtleCoin merchandise - all prices in TRTL all payments in TRTL  
+### FAQ
+[How do I open an old wallet?](https://medium.com/@turtleturtle.club/opening-an-old-turtlecoin-wallet-f81f4cc68b66) → Open old wallet 
 
 
 ### Faucets
-[trtlfaucet.com](https://trtlfaucet.com) → Submit some hashes, earn some TRTL  
-[faucet.trtl.me](https://faucet.trtl.me) → krruzic's TurtleCoin Faucet  
-[faucethunter.online](https://faucethunter.online/index.php) →  Hunter Faucet: Referral links and  "Hunter Codes" are features of this faucet  
-[rainsometurtles.xyz](https://rainsometurtles.xyz/) → RainsomeTurtles Faucet  
-[turtlecoin-faucet.xhub.cloud](http://turtlecoin-faucet.xhub.cloud) → polar-it's TurtleCoin Faucet based on krruzic's code  
 [trtlfaucet.de.cool](https://trtlfaucet.de.cool) → Fipsi's TurtleCoin Faucet for crypto-newbies  
-[trtl.faucet.llama.horse](https://trtl.faucet.llama.horse/) → Llama & Horse free turtles! Come and get 'em!  
 
 
-### Asset Trackers
+### Guides
+[docs.turtlecoin.lol](https://docs.turtlecoin.lol) → Documentation for all things TurtleCoin®  
+[Daemon API Documentation](https://docs.turtlecoin.lol/developer/api/daemon-json-rpc-api) → TurtleCoin® Node Daemon API Documentation  
+[Using TIPBOT](https://docs.turtlecoin.lol/guides/using-tipbot) → Using TIPBOT  
+[Wallet API Documentation](https://turtlecoin.github.io/wallet-api-docs/) →  wallet-api Documentation  
+
+
+### Merchants
+[TurtleGarb](https://www.redbubble.com/people/iburnmycd/shop) → TurtleCoin® Merchandise by iburnmycd  
+
+
+### Mining Help
+[Mining hardware hashrates](https://docs.google.com/spreadsheets/d/1dQu_uQNywE3iO93Da5d8dR7QJk7swtTnavk9RSy47_0/edit?usp=sharing) → TurtleCoin® Hashrate by Hardware Spreadsheet  
+[Mining FAQ](https://medium.com/@turtleturtle.club/turtlecoin-mining-faq-db04b138ab12) → Mining FAQ  
+
+
+### Mining Pools
+[turtlecoinpool.allcoinspool.com](http://turtlecoinpool.allcoinspool.com/) → AllCoinsPool (EU, Iran, US)  
+[c3pool.com](https://c3pool.com/help?coin=TRTL) → C3Pool (Asia, EU, US)  
+[fastpool.xyz](https://fastpool.xyz/trtl/) → Fastpool (EU)  
+[turtle.hashvault.pro](https://turtle.hashvault.pro/en/) → HashVault (Asia, EU, US)  
+[turtlecoin.herominers.com](https://turtlecoin.herominers.com) → Herominers (Asia, EU, US)  
+[liberty-pool.com](https://liberty-pool.com/) → Liberty-Pool (EU)  
+[trtl.mine2gether.com](http://trtl.mine2gether.com/) → Mine2gether (US)  
+[moneroocean.stream](https://moneroocean.stream/) → MoneroOcean (Asia, EU, US)  
+[trtl.pool-pay.com](https://trtl.pool-pay.com/) → Pool-Pay (EU)  
+[pond.turtleturtle.club](https://pond.turtleturtle.club) → TurtleTurtle.Club (US)  
+
+
+### Payment Integrations
+[TurtlePay™](https://turtlepay.io) → TurtlePay™: TurtleCoin® payments for developers, by developers   
+[WooTurtle](https://github.com/turtlecoin/woo-turtle) → WooCommerce TurtleCoin® integration  
+
+
+### Projects
+[archlinuxuserpackage](https://aur.archlinux.org/packages/turtlecoin-git/) → wreiner's package of core for arch linux  
+[checkpoints.turtlecoin.lol](https://checkpoints.turtlecoin.lol) → TurtleCoin® IPFS Checkpoints  
+[dns.turtlecoin.lol](http://dns.turtlecoin.lol) → .trtl TLD Domain Name Services  
+[RainTurtle](https://github.com/turtleturtleclub/rain-turtle) → Forked and updated from MoonMoonDogo's Rain Bot  
+[ShellMap](https://shellmap.mine2gether.com/) → A graphical interface of world wide earth bound nodes  
+[TurtleShop](https://github.com/turtlecoin/turtleshop) → A simple web shop that accepts TurtleCoin®  
+
+
+### Tortoise Archives
+[MegaTurtle](https://megaturtle.lol/) → Compare M-TRTL to Bitcoin and info about the coin economics of TurtleCoin®  
+[ShellNet](https://shellnet.pw) → A web wallet for TurtleCoin® payments  
+[TRTLBOT++](https://github.com/krruzic/trtlbotplusplus) → TrtlBot++  
+[TRTLCLI](https://github.com/turtlecoin/turtle-network-cli) → CLI tool to check TurtleCoin® network status and community activity  
+[TRTLCLIpy](https://github.com/turtlecoin/turtlecoin-cli-py) → CLI tool to check TurtleCoin® network status and community activity, written in Python  
+[TurtleBot](https://github.com/CaptainMeatloaf/TurtleBot) → TurtleBot - Network Stats Monitor  
+[TurtleC#GUI](https://github.com/turtlecoin/turtle-wallet-csharp) → TurtleCoin® C# wallet  
+[TurtleElectronGUI](https://github.com/turtlecoin/turtle-wallet-electron) → TurtleCoin® GUI wallet  
+[TurtleNestGUI](https://github.com/turtlecoin/turtle-wallet-go) → TurtleCoin® Go wallet  
+[TurtlePythonGUI](https://github.com/turtlecoin/turtle-wallet-python) →  TurtleCoin® Python wallet  
+[TurtleSnailRaces](https://discord.gg/xUyS7Xm) → Discord for TurtleCoin® snail racing  
+[TurtleWinFormsGUI](https://github.com/turtlecoin/turtle-wallet-winforms) → TurtleCoin® desktop GUI wallet  
+
+
+### Trackers
 [CoinCodex](https://coincodex.com/crypto/turtlecoin/) → CoinCodex  
 [CoinGecko](https://www.coingecko.com/en/coins/turtlecoin) → CoinGecko  
 [CoinLib](https://coinlib.io/coin/TRTL/TurtleCoin) → CoinLib  
+[CoinLore](https://www.coinlore.com/coin/turtlecoin) → CoinLore   
 [CoinMarketCap](https://coinmarketcap.com/currencies/turtlecoin/) → CoinMarketCap  
-[Coinranking](https://coinranking.com/coin/turtlecoin-trtl) → Coinranking  
-[CryptoChartIndex](https://cryptochartindex.com/currency/turtlecoin) → CryptoChartIndex  
+[CoinRanking](https://coinranking.com/coin/turtlecoin-trtl) → CoinRanking   
 [CryptoCompare](https://www.cryptocompare.com/coins/trtl/overview/BTC) → CryptoCompare  
-[Cryptolization](https://cryptolization.com/turtlecoin) → Cryptolization  
-[CryptoPricer](https://cryptopricer.net/currency/turtlecoin) → CryptoPricer  
 [LiveCoinWatch](https://www.livecoinwatch.com/price/TurtleCoin-TRTL) → LiveCoinWatch  
 [WorldCoinIndex](https://www.worldcoinindex.com/coin/turtlecoin) → WorldCoinIndex  
-[CoinLore](https://www.coinlore.com/coin/turtlecoin) → Coinlore  
 
 
 ### Darkweb
 [trtljx3ovmd7kjlc.onion](http://trtljx3ovmd7kjlc.onion/) → Tor hidden service of this site  
-

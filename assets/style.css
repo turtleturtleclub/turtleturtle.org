@@ -1,18 +1,18 @@
 body, div {
   font-size: 1.1em;
   font-family: monospace;
-  text-transform: capitalize;
-  color: #00632e;
-  background-color: #111411;
+  text-transform: none;
+  color: #ffffff;
+  background-color: #000000;
 }
 a,h1,h2,h3,h4 {
-  color: #339d64;
+  color: #2c806a;
 }
 h3 {
-  color: #339d64;
+  color: #2c806a;
   text-decoration: underline;
 }
 a:hover {
-  color: #66b58b;
+  color: #2c806a;
   text-decoration: none;
 }
