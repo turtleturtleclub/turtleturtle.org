@@ -4,15 +4,13 @@ title: TurtleTurtle.org
 ---
 ### Official
 [turtlecoin.lol](http://turtlecoin.lol) → Official TurtleCoin® Website  
-[github.turtlecoin.lol](https://github.com/turtlecoin) → Official TurtleCoin® Development  
-[encrypted.turtlecoin.lol](https://keybase.io/turtlecoin) → Official TurtleCoin® Encrypted Chat & Public Keys  
-[explorer.turtlecoin.lol](https://explorer.turtlecoin.lol) → Official TurtleCoin® Blockchain Explorer  
+[github.turtlecoin.lol](https://github.com/turtlecoin) → Official TurtleCoin® Development   
 [meta.turtlecoin.lol](https://github.com/turtlecoin/meta) → Official TurtleCoin® Suggestion and Collaboration Board  
 
 
 ### Official Social
 [blog.turtlecoin.com](https://blog.turtlecoin.com) → Official TurtleCoin® Blog  
-[chat.turtlecoin.lol](http://chat.turtlecoin.lol) → Official TurtleCoin® Discord  
+[chat.turtlecoin.com](http://chat.turtlecoin.com) → Official TurtleCoin® Discord  
 [facebook.turtlecoin.lol](https://www.facebook.com/trtlcoin/) → Official TurtleCoin® Facebook Community  
 [github.turtlecoin.lol](https://github.com/turtlecoin) → Official TurtleCoin® GitHub  
 [instagram.turtlecoin.lol](https://www.instagram.com/_turtlecoin/) → Official TurtleCoin® Instagram  
@@ -39,16 +37,12 @@ title: TurtleTurtle.org
 
 
 ### FAQ
-[How do I open an old wallet?](https://medium.com/@turtleturtle.club/opening-an-old-turtlecoin-wallet-f81f4cc68b66) → Open old wallet 
-
-
-### Faucets
-[trtlfaucet.de.cool](https://trtlfaucet.de.cool) → Fipsi's TurtleCoin Faucet for crypto-newbies  
+[How do I open an old wallet?](https://medium.com/@turtleturtle.club/opening-an-old-turtlecoin-wallet-f81f4cc68b66)
 
 
 ### Guides
 [docs.turtlecoin.lol](https://docs.turtlecoin.lol) → Documentation for all things TurtleCoin®  
-[Daemon API Documentation](https://docs.turtlecoin.lol/developer/api/daemon-json-rpc-api) → TurtleCoin® Node Daemon API Documentation  
+[Daemon API Documentation](https://meta.turtlecoin.dev/proposals/daemon-api/) → TurtleCoin® Node Daemon API Documentation  
 [Using TIPBOT](https://docs.turtlecoin.lol/guides/using-tipbot) → Using TIPBOT  
 [Wallet API Documentation](https://turtlecoin.github.io/wallet-api-docs/) →  wallet-api Documentation  
 
@@ -77,7 +71,6 @@ title: TurtleTurtle.org
 
 ### Payment Integrations
 [TurtlePay™](https://turtlepay.io) → TurtlePay™: TurtleCoin® payments for developers, by developers   
-[WooTurtle](https://github.com/turtlecoin/woo-turtle) → WooCommerce TurtleCoin® integration  
 
 
 ### Projects
@@ -95,6 +88,7 @@ title: TurtleTurtle.org
 [TRTLBOT++](https://github.com/krruzic/trtlbotplusplus) → TrtlBot++  
 [TRTLCLI](https://github.com/turtlecoin/turtle-network-cli) → CLI tool to check TurtleCoin® network status and community activity  
 [TRTLCLIpy](https://github.com/turtlecoin/turtlecoin-cli-py) → CLI tool to check TurtleCoin® network status and community activity, written in Python  
+[trtlfaucet.de.cool](https://trtlfaucet.de.cool) → Fipsi's TurtleCoin Faucet for crypto-newbies  
 [TurtleBot](https://github.com/CaptainMeatloaf/TurtleBot) → TurtleBot - Network Stats Monitor  
 [TurtleC#GUI](https://github.com/turtlecoin/turtle-wallet-csharp) → TurtleCoin® C# wallet  
 [TurtleElectronGUI](https://github.com/turtlecoin/turtle-wallet-electron) → TurtleCoin® GUI wallet  
@@ -102,6 +96,7 @@ title: TurtleTurtle.org
 [TurtlePythonGUI](https://github.com/turtlecoin/turtle-wallet-python) →  TurtleCoin® Python wallet  
 [TurtleSnailRaces](https://discord.gg/xUyS7Xm) → Discord for TurtleCoin® snail racing  
 [TurtleWinFormsGUI](https://github.com/turtlecoin/turtle-wallet-winforms) → TurtleCoin® desktop GUI wallet  
+[WooTurtle](https://github.com/turtlecoin/woo-turtle) → WooCommerce TurtleCoin® integration  
 
 
 ### Trackers
